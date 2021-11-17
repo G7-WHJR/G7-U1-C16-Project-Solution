@@ -11,7 +11,6 @@ class Box {
     {
       stroke(0);
       strokeWeight(1);
-      noFill()
       rect(this.x, this.y, this.w, this.h);
     }
 }
